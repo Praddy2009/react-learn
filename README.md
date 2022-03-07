@@ -4,9 +4,9 @@
 Created this repository to help the learners to take 0 to 0.1 step in their journey to learn React JS. Make sure to go in the sequence manner.
 
 ## Tools I suggest 🛠️
-- VSCode : To code
-- Flameshot :  Feature rich screenshot tool
-- Notion : Tool to take notes
+- [VSCode](https://code.visualstudio.com/) : To code
+- [Flameshot](https://flameshot.org/#download) :  Feature rich screenshot tool
+- [Notion](https://www.notion.so/) : Tool to take notes
 
 Hope this repo helps you. If you have any suggestions do make a pull request and I'll be happy to review them.
 
